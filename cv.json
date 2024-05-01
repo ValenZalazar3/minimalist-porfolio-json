@@ -1,0 +1,213 @@
+{
+    "basics": {
+      "name": "Valetin Zalazar",
+      "label": "Programmer",
+      "image": "https://elcomercio.pe/resizer/-ff-6d9vg7CILcQh-WvejY7_3lQ=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6FUBT6XQXNHHNFOMCHIT7I34NA.jpg",
+      "email": "valenzalazar3@gmail.com",
+      "phone": "11 3470-9711",
+      "url": "https://johndoe.com",
+      "summary": "A summary of John Doe…",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "Caballito",
+        "countryCode": "US",
+        "region": "Capital Federal"
+      },
+      "profiles": [{
+        "network": "X",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      }, {
+        "network": "GitHub",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      }, {
+        "network": "LinkedIn",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      }]
+    },
+    "work": [{
+      "name": "Henry",
+      "position": "Full Stack Developer (HA)",
+      "url": "https://company.com",
+      "startDate": "2023-06-01",
+      "endDate": null,
+      "summary": "Analizar perfiles de Full Stack Teaching Assistant (TA) y seleccionar los candidatos más calificados.      Liderar, coordinar y capacitar grupos de TAs para lograr la mejor experiencia estudiantil. Promover el trabajo en equipo, lograr la cohesión grupal y facilitar la colaboración entre personas. Participar en el desarrollo de propuestas para mejorar los procesos del Bootcamp e intercambiar ideas con otros miembros del equipo. Desarrollar propuestas para mejorar los procesos del Bootcamp e intercambiar ideas con otros miembros del equipo. Realizar un seguimiento y análisis de las experiencias de los TA.",
+      "highlights": [
+        "Started the company"
+      ]
+    }, {
+      "name": "Henry",
+      "position": "Full Stack Developer (TA)",
+      "url": "https://company.com",
+      "startDate": "2023-03-01",
+      "endDate": "2023-06-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }, {
+      "name": "Juzgado de Garantias en lo Penal Nro3",
+      "position": "Abogado",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "React",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "TypeScript",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },{
+      "name": "NodeJS",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    } ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "isActive": true,
+      "github": "El GitHub del proyecto",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Project",
+      "isActive": true,
+      "github": "El GitHub del proyecto",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Project",
+      "isActive": true,
+      "github": "El GitHub del proyecto",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Project",
+      "isActive": true,
+      "github": "El GitHub del proyecto",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
